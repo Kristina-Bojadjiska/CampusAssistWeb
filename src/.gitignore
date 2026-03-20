@@ -1,0 +1,17 @@
+# Build folders
+target/
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite DB (VERY IMPORTANT)
+*.db
